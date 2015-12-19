@@ -1,0 +1,2 @@
+
+GRANT ALL PRIVILEGES  ON projone.* TO 'projone'@'%' IDENTIFIED BY 'projone' WITH GRANT OPTION
